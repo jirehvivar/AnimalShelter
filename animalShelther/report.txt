@@ -1,0 +1,212 @@
+Total Animals created:14
+Total cats created: 8
+Total dogs created: 4
+Total other animals: 2
+Hi! My name is Morris
+I am 9 years old 
+I weigh 3 pounds.
+I'm a 
+ My color is yellow
+My health is labeled as: good.
+Here's the sound I make: Moan.
+
+Hi! My name is Mittens
+I am 1 years old 
+I weigh 1 pounds.
+I'm a Calico
+ My color is brown and white
+My health is labeled as: good.
+Here's the sound I make: Mew.
+
+Hi! My name is Junior
+I am 1 years old 
+I weigh 2 pounds.
+I'm a Tabby
+ My color is black
+My health is labeled as: .
+Here's the sound I make: .
+
+Hi! My name is Priss
+I am  years old 
+I weigh  pounds.
+I'm a 
+ My color is white
+My health is labeled as: good.
+Here's the sound I make: Mew.
+
+Hi! My name is 
+I am  years old 
+I weigh  pounds.
+I'm a Mynah
+ My color is black
+My health is labeled as: .
+Here's the sound I make: Hello.
+
+Hi! My name is Charcoal
+I am 1 years old 
+I weigh 2 pounds.
+I'm a Siamese
+ My color is white and yellow
+My health is labeled as: good.
+Here's the sound I make: Hiss.
+
+Hi! My name is Bitsy
+I am 4 years old 
+I weigh 6 pounds.
+I'm a Minx
+ My color is grey
+My health is labeled as: good.
+Here's the sound I make: .
+
+Hi! My name is Charmin
+I am  years old 
+I weigh 3 pounds.
+I'm a 
+ My color is white
+My health is labeled as: parvo.
+Here's the sound I make: .
+
+Hi! My name is Chippy
+I am  years old 
+I weigh 1 pounds.
+I'm a 
+ My color is tan
+My health is labeled as: .
+Here's the sound I make: .
+
+Hi! My name is Fido
+I am 5 years old 
+I weigh 7 pounds.
+I'm a 
+ My color is spotted
+My health is labeled as: good.
+Here's the sound I make: Bark.
+
+Hi! My name is Red
+I am 2 years old 
+I weigh  pounds.
+I'm a Heinz
+ My color is redddish
+My health is labeled as: parvo.
+Here's the sound I make: .
+
+Hi! My name is Cute Stuff
+I am 1 years old 
+I weigh 2 pounds.
+I'm a 
+ My color is yellow
+My health is labeled as: good.
+Here's the sound I make: Purr.
+
+Hi! My name is Rex
+I am 3 years old 
+I weigh 5 pounds.
+I'm a 
+ My color is brown and white
+My health is labeled as: good.
+Here's the sound I make: .
+
+Hi! My name is Spot
+I am  years old 
+I weigh 8 pounds.
+I'm a Dalmation
+ My color is spotted
+My health is labeled as: .
+Here's the sound I make: Woof.
+
+Hi! My name is Morris
+I am 9 years old 
+I weigh 3 pounds.
+I'm a 
+ My color is yellow
+My health is labeled as: good.
+Here's the sound I make: Moan.
+
+Hi! My name is Mittens
+I am 1 years old 
+I weigh 1 pounds.
+I'm a Calico
+ My color is brown and white
+My health is labeled as: good.
+Here's the sound I make: Mew.
+
+Hi! My name is Junior
+I am 1 years old 
+I weigh 2 pounds.
+I'm a Tabby
+ My color is black
+My health is labeled as: .
+Here's the sound I make: .
+
+Hi! My name is Priss
+I am  years old 
+I weigh  pounds.
+I'm a 
+ My color is white
+My health is labeled as: good.
+Here's the sound I make: Mew.
+
+Hi! My name is Charcoal
+I am 1 years old 
+I weigh 2 pounds.
+I'm a Siamese
+ My color is white and yellow
+My health is labeled as: good.
+Here's the sound I make: Hiss.
+
+Hi! My name is Charmin
+I am  years old 
+I weigh 3 pounds.
+I'm a 
+ My color is white
+My health is labeled as: parvo.
+Here's the sound I make: .
+
+Hi! My name is Red
+I am 2 years old 
+I weigh  pounds.
+I'm a Heinz
+ My color is redddish
+My health is labeled as: parvo.
+Here's the sound I make: .
+
+Hi! My name is Cute Stuff
+I am 1 years old 
+I weigh 2 pounds.
+I'm a 
+ My color is yellow
+My health is labeled as: good.
+Here's the sound I make: Purr.
+
+Hi! My name is Bitsy
+I am 4 years old 
+I weigh 6 pounds.
+I'm a Minx
+ My color is grey
+My health is labeled as: good.
+Here's the sound I make: .
+
+Hi! My name is Fido
+I am 5 years old 
+I weigh 7 pounds.
+I'm a 
+ My color is spotted
+My health is labeled as: good.
+Here's the sound I make: Bark.
+
+Hi! My name is Rex
+I am 3 years old 
+I weigh 5 pounds.
+I'm a 
+ My color is brown and white
+My health is labeled as: good.
+Here's the sound I make: .
+
+Hi! My name is Spot
+I am  years old 
+I weigh 8 pounds.
+I'm a Dalmation
+ My color is spotted
+My health is labeled as: .
+Here's the sound I make: Woof.
+

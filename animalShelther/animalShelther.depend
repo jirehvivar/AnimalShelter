@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1682910876 source:d:\animalgame\animalshelther\animal.cpp
+	"Animal.h"
+
+1682909442 d:\animalgame\animalshelther\animal.h
+	<iostream>
+	<string>
+
+1682911190 source:d:\animalgame\animalshelther\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<fstream>
+	"dog.h"
+	"cat.h"
+
+1682910876 source:d:\animalgame\animalshelther\cat.cpp
+	<iostream>
+	"cat.h"
+
+1682903132 d:\animalgame\animalshelther\cat.h
+	<iostream>
+	"Animal.h"
+
+1682910898 source:d:\animalgame\animalshelther\dog.cpp
+	<iostream>
+	"dog.h"
+
+1682881990 source:d:\animalgame\animalshelther\debuggerjv.cpp
+
+1682903076 d:\animalgame\animalshelther\dog.h
+	<iostream>
+	"Animal.h"
+
